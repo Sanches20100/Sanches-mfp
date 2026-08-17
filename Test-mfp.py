@@ -5,3 +5,4 @@ def f(x,m):
         x//=m
     return s[::-1]
 print(f(121,4))
+print('успех')
