@@ -1,12 +1,10 @@
-# Системные файлы PyCharm
+
 .idea/
 *.iml
 
-# Кэш Python
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Виртуальное окружение
 venv/
 env/
